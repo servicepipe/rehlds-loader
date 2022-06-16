@@ -19,7 +19,7 @@ type Item struct {
 
 func main() {
 	fmt.Println("----------------------------------------------------")
-	fmt.Println("-------------------| ReHLDS.ru |--------------------")
+	fmt.Println("-------------| ReHLDS Server Loader |---------------")
 	fmt.Println("----------------------------------------------------")
 
 	routes := make(map[int]string)
